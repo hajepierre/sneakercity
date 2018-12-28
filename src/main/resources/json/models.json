@@ -1,0 +1,167 @@
+{
+    "name": "Nike",
+    "models": [
+        {
+            "id": "1",
+            "name": "Nike Air Max 97 QS",
+            "price": "$180",
+            "profile": "1_blue",
+            "picture": {
+                "name": "1",
+                "colors": [
+                    {
+                        "name": "blue"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "name": "Air Jordan 6 Retro",
+            "price": "$190",
+            "profile": "2_black",
+            "picture": {
+                "name": "2",
+                "colors": [
+                    {
+                        "name": "black"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "name": "Air Jordan 3 Retro",
+            "price": "$180",
+            "profile": "3_white",
+            "picture": {
+                "name": "3",
+                "colors": [
+                    {
+                        "name": "white"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "name": "Nike Air VaporMax Flyknit 2",
+            "price": "$190",
+            "profile": "6_black",
+            "picture": {
+                "name": "6",
+                "colors": [
+                    {
+                        "name": "marroon"
+                    },
+                    {
+                        "name": "black"
+                    },
+                    {
+                        "name": "white"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "name": "Nike Epic React Flyknit BETRUE",
+            "price": "$150",
+            "profile": "7_black",
+            "picture": {
+                "name": "7",
+                "colors": [
+                    {
+                        "name": "black"
+                    },
+                    {
+                        "name": "gray"
+                    },
+                    {
+                        "name": "marroon"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "name": "Nike Air VaporMax Utility",
+            "price": "$190",
+            "profile": "8_orange",
+            "picture": {
+                "name": "8",
+                "colors": [
+                    {
+                        "name": "orange"
+                    },
+                    {
+                        "name": "white"
+                    },
+                    {
+                        "name": "yellow"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "name": "Nike Air Max 270",
+            "price": "150",
+            "profile": "9_green",
+            "picture": {
+                "name": "9",
+                "colors": [
+                    {
+                        "name": "green"
+                    },
+                    {
+                        "name": "red"
+                    },
+                    {
+                        "name": "white"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "name": "Nike Air VaporMax Plus",
+            "price": "190",
+            "profile": "10_black",
+            "picture": {
+                "name": "10",
+                "colors": [
+                    {
+                        "name": "black_white"
+                    },
+                    {
+                        "name": "black"
+                    },
+                    {
+                        "name": "white"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "name": "Nike Air VaporMax Flyknit Utility",
+            "price": "$225",
+            "profile": "11_black",
+            "picture": {
+                "name": "11",
+                "colors": [
+                    {
+                        "name": "black"
+                    },
+                    {
+                        "name": "purple"
+                    },
+                    {
+                        "name": "white"
+                    }
+                ]
+            }
+        }
+    ]
+}
